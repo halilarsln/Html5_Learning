@@ -1,4 +1,6 @@
 # Html5_Learning
 Alıştırma=Listing Tags
 
-Alıştırma=metin ve görünüm
+Alıştırma2=Text and Appearance
+
+Alıştırma3=Link
